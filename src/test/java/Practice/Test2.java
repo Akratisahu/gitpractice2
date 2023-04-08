@@ -10,6 +10,6 @@ public class Test2 {
 	}
 	@Test
  public void Method5() {
-	System.out.println("----Test02------");	
+	System.out.println("Addiing a new file ");	
 	}
 }
