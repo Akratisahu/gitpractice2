@@ -9,7 +9,8 @@ public class Test3 {
 	}
  @Test
 	public void Method2() {
-	System.out.println("----Test02------");	
+	 System.out.println("karan has updated this code with this statment");
+	System.out.println("----test is added------");	
 	}
  @Test
         public void Method3() {
