@@ -6,6 +6,7 @@ public class Test3 {
 @Test	
 	public void Method1() {
 		System.out.println("----Test01------");
+		System.out.println("karan second updated");
 	}
  @Test
 	public void Method2() {
